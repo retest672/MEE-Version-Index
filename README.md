@@ -33,6 +33,14 @@ These are all the current versions downloadable right now (only for MacOS)
 
 1.18.30 - https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.18.30.0.dmg
 
-1.18.31 (latest beta) - https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.18.31.0.dmg
+1.18.31 - https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.18.31.0.dmg
 
-1.18.32 (latest) - https://aka.ms/meeclientmacos
+1.18.32 - https://meedownloads.azureedge.net/retailbuilds/MacOS/Minecraft_Education_Edition_1.18.32.0.dmg
+
+1.18.42 - https://meedownloads.azureedge.net/retailbuilds/MacOS/Minecraft_Education_Edition_1.18.42.0.dmg
+
+1.18.45 (latest) - https://aka.ms/meeclientmacos
+
+1.19.50 - https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.19.50.0.dmg
+
+1.19.51 (latest beta) - https://aka.ms/downloadmee-macosBeta
