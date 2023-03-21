@@ -1,7 +1,15 @@
 # MEE-Version-Index
 These are all the current versions downloadable right now (only for MacOS)
 
-1.12.60 and below - (not found)
+Versions below 1.0.17 release 2017-05-22 - (not found)
+
+1.0.17 release 2017-05-22 - https://web.archive.org/web/20170611171509/https://meedownloads.blob.core.windows.net/1-0-17-release-20170522/macOS/minecraft_education_edition.dmg
+
+1.0.18 release 2017-07-18 to 1.0.17 release 2017-05-22 - (not found)
+
+1.0.18 release 2017-07-19 - https://web.archive.org/web/20171025001831if_/https://meedownloads.blob.core.windows.net/1-0-18-release-20170719/macOS/Minecraft_Education_Edition.dmg
+
+1.12.60 to 1.0.18 release 2017-07-19 - (not found)
 
 1.12.61 - https://web.archive.org/web/20200429143946/https://meedownloads.azureedge.net/retailbuilds/MacOS/Minecraft_Education_Edition.dmg
 
