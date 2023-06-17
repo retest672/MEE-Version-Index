@@ -1,5 +1,5 @@
-# MEE-Version-Index
-These are all the current versions downloadable right now (only for MacOS)
+# Minecraft Education Index
+These are all the current versions downloadable right now (Planning to add more platforms)
 
 Versions below 1.0.17 release 2017-05-22 - (not found)
 
@@ -37,17 +37,19 @@ Versions below 1.0.17 release 2017-05-22 - (not found)
 
 1.17.32 - https://meedownloads.azureedge.net/retailbuilds/MacOS/Minecraft_Education_Edition_1-17-32-00.dmg
 
-1.18.10.04 - https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.18.10.04.dmg
+[1.18.10.04](https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.18.10.04.dmg)
 
-1.18.30 - https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.18.30.0.dmg
+[1.18.30](https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.18.30.0.dmg)
 
-1.18.31 - https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.18.31.0.dmg
+[1.18.31](https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.18.31.0.dmg)
 
-1.18.32 - https://meedownloads.azureedge.net/retailbuilds/MacOS/Minecraft_Education_Edition_1.18.32.0.dmg
+[1.18.32](https://downloads.minecrafteduservices.com/retailbuilds/MacOS/Minecraft_Education_Edition_1.18.32.0.dmg)
 
-1.18.42 - https://meedownloads.azureedge.net/retailbuilds/MacOS/Minecraft_Education_Edition_1.18.42.0.dmg
+[1.18.42](https://downloads.minecrafteduservices.com/retailbuilds/MacOS/Minecraft_Education_Edition_1.18.42.0.dmg)
 
-1.18.45 (latest) - https://aka.ms/meeclientmacos
+[1.18.45](https://downloads.minecrafteduservices.com/retailbuilds/MacOS/Minecraft_Education_1.18.45.0.dmg)
+
+[1.19.52](https://aka.ms/meeclientmacos)
 
 1.19.50 - https://downloads.minecrafteduservices.com/mee-betabuilds/macOS/Minecraft_Education_Edition_1.19.50.0.dmg
 
