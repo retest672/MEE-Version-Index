@@ -53,4 +53,4 @@ Versions below 1.0.17 release 2017-05-22 (not found)
 
 [1.19.51 (latest beta)](https://aka.ms/downloadmee-macosBeta)
 
-[1.19.52](https://aka.ms/meeclientmacos)
+[1.19.52 (latest)](https://aka.ms/meeclientmacos)
